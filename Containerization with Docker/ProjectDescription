@@ -1,0 +1,6 @@
+Set up a Docker server or use a Docker lab environment.
+Clone the application repository from GitHub.
+Update backend API and frontend configuration with the server's public IP.
+Use Docker Compose to bring up all application services.
+Adjust security group settings to allow traffic on required ports (8080, 5000).
+Verify the deployment by accessing the application via the public IP.
