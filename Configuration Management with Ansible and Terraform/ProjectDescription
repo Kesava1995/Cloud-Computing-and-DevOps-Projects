@@ -1,0 +1,5 @@
+Install unzip utility on the server.
+Download the project web files from the source.
+Unzip the files to extract the application.
+Run the Ansible playbook to install Nginx and deploy the web app.
+Access the application via the configured Nginx server.
