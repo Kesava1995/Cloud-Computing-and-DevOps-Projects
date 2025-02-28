@@ -1,0 +1,5 @@
+Create a Producer Lambda function to generate and send data to Kinesis.
+Set up an Amazon Kinesis Data Stream for real-time data streaming.
+Develop a Consumer Lambda function to process and forward data.
+Deploy a DynamoDB Database to store the processed data.
+Conduct testing to ensure seamless data flow and performance.
