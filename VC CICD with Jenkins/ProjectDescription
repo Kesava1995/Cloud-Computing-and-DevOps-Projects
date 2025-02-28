@@ -1,0 +1,7 @@
+Jenkins Backup and Restore on AWS S3
+In AWS, Installed Jenkins on two EC2 servers. 
+In one EC2, Created an account and in it created a job "echojob". 
+Created a tar ball. Uploaded into S3 bucket. 
+In another EC2, Stopped Jenkins and deleted the existing data. 
+Downloaded the tar ball and extracted it. 
+Verified the restoration
