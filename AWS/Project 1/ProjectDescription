@@ -1,0 +1,4 @@
+Launch a WordPress instance using AWS CloudFormation.
+Create an Amazon Machine Image (AMI) from the first instance.
+Deploy a second WordPress instance from the AMI
+Monitor the instance availability using AWS Route 53.
